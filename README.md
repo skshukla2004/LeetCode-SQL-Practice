@@ -277,7 +277,7 @@ Each day contains:
 ### 🔹 Output Screenshot
 ![SQL Output](2026-05-19_SQL_029.png)
 
----
+----------
 
 ## Day 30 - 20 May 2026
 ### 🔹 SQL Query
