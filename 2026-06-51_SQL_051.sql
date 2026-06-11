@@ -1,5 +1,6 @@
  /* Question No' 180: Find all numbers that appear at least three times consecutively.
 Return the result table in any order.*/
+# Code
 Select DISTINCT l1.num AS ConsecutiveNums
 From Logs l1
 Join Logs l2
