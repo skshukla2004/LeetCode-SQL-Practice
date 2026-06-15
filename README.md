@@ -15,7 +15,7 @@ Each day contains:
 - 🖼 Output Screenshot (.png)
 
 ---
-
+  
 ## 📅 Daily Progress
 
 ## Day 1 - 21 April 2026
